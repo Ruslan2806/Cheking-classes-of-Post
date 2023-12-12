@@ -1,0 +1,16 @@
+C:\Users\bichu\OneDrive\Рабочий стол\Diskretka\Diskretka\bin\Debug\Diskretka.exe.config
+C:\Users\bichu\OneDrive\Рабочий стол\Diskretka\Diskretka\bin\Debug\Diskretka.exe
+C:\Users\bichu\OneDrive\Рабочий стол\Diskretka\Diskretka\bin\Debug\Diskretka.pdb
+C:\Users\bichu\OneDrive\Рабочий стол\Diskretka\Diskretka\obj\Debug\Diskretka.csproj.AssemblyReference.cache
+C:\Users\bichu\OneDrive\Рабочий стол\Diskretka\Diskretka\obj\Debug\Diskretka.csproj.SuggestedBindingRedirects.cache
+C:\Users\bichu\OneDrive\Рабочий стол\Diskretka\Diskretka\obj\Debug\Diskretka.csproj.CoreCompileInputs.cache
+C:\Users\bichu\OneDrive\Рабочий стол\Diskretka\Diskretka\obj\Debug\Diskretka.exe
+C:\Users\bichu\OneDrive\Рабочий стол\Diskretka\Diskretka\obj\Debug\Diskretka.pdb
+C:\Руслан\Домашние задания\1 курс\ДЗ по дискретке (2 семестр)\ChekingClassesOfPost\Diskretka\bin\Debug\Diskretka.exe.config
+C:\Руслан\Домашние задания\1 курс\ДЗ по дискретке (2 семестр)\ChekingClassesOfPost\Diskretka\bin\Debug\Diskretka.exe
+C:\Руслан\Домашние задания\1 курс\ДЗ по дискретке (2 семестр)\ChekingClassesOfPost\Diskretka\bin\Debug\Diskretka.pdb
+C:\Руслан\Домашние задания\1 курс\ДЗ по дискретке (2 семестр)\ChekingClassesOfPost\Diskretka\obj\Debug\Diskretka.csproj.AssemblyReference.cache
+C:\Руслан\Домашние задания\1 курс\ДЗ по дискретке (2 семестр)\ChekingClassesOfPost\Diskretka\obj\Debug\Diskretka.csproj.SuggestedBindingRedirects.cache
+C:\Руслан\Домашние задания\1 курс\ДЗ по дискретке (2 семестр)\ChekingClassesOfPost\Diskretka\obj\Debug\Diskretka.csproj.CoreCompileInputs.cache
+C:\Руслан\Домашние задания\1 курс\ДЗ по дискретке (2 семестр)\ChekingClassesOfPost\Diskretka\obj\Debug\Diskretka.exe
+C:\Руслан\Домашние задания\1 курс\ДЗ по дискретке (2 семестр)\ChekingClassesOfPost\Diskretka\obj\Debug\Diskretka.pdb

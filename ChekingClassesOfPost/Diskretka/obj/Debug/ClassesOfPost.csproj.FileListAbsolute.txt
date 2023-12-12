@@ -1,0 +1,8 @@
+C:\Users\bichu\OneDrive\Рабочий стол\ChekingClassesOfPost\Diskretka\bin\Debug\Diskretka.exe.config
+C:\Users\bichu\OneDrive\Рабочий стол\ChekingClassesOfPost\Diskretka\bin\Debug\Diskretka.exe
+C:\Users\bichu\OneDrive\Рабочий стол\ChekingClassesOfPost\Diskretka\bin\Debug\Diskretka.pdb
+C:\Users\bichu\OneDrive\Рабочий стол\ChekingClassesOfPost\Diskretka\obj\Debug\ClassesOfPost.csproj.AssemblyReference.cache
+C:\Users\bichu\OneDrive\Рабочий стол\ChekingClassesOfPost\Diskretka\obj\Debug\ClassesOfPost.csproj.SuggestedBindingRedirects.cache
+C:\Users\bichu\OneDrive\Рабочий стол\ChekingClassesOfPost\Diskretka\obj\Debug\ClassesOfPost.csproj.CoreCompileInputs.cache
+C:\Users\bichu\OneDrive\Рабочий стол\ChekingClassesOfPost\Diskretka\obj\Debug\Diskretka.exe
+C:\Users\bichu\OneDrive\Рабочий стол\ChekingClassesOfPost\Diskretka\obj\Debug\Diskretka.pdb
