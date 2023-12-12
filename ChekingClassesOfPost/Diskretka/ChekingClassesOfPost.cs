@@ -14,6 +14,7 @@ namespace Diskretka
         static void Main(string[] args)
         {
             int c = 1 / 0;
+            int str = "Hallo World";
             Console.WriteLine("## ПРОВЕРКА ПРИНАДЛЕЖНОСТИ ФУНКЦИИ КЛАССАМ ПОСТА ##");
             Console.WriteLine("P.S. Программа поддерживает до 10 переменных");
             while (true)
