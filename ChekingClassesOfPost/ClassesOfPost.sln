@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesOfPost", "Diskretka\ClassesOfPost.csproj", "{F0B691D2-29E8-4B4F-887E-CAE8EC32D953}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{6593787E-7018-4318-85B2-06FF4C656ABB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F0B691D2-29E8-4B4F-887E-CAE8EC32D953}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0B691D2-29E8-4B4F-887E-CAE8EC32D953}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0B691D2-29E8-4B4F-887E-CAE8EC32D953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6593787E-7018-4318-85B2-06FF4C656ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6593787E-7018-4318-85B2-06FF4C656ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6593787E-7018-4318-85B2-06FF4C656ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6593787E-7018-4318-85B2-06FF4C656ABB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

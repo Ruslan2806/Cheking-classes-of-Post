@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Data;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -9,10 +10,11 @@ using System.Web;
 
 namespace Diskretka
 {
-    internal class ChekingClassesOfPost
+    public class ChekingClassesOfPost
     {
         static void Main(string[] args)
         {
+            bool[] input = ChekingClassesOfPost.returnClassesOfPost("10101011");
             Console.WriteLine("## ПРОВЕРКА ПРИНАДЛЕЖНОСТИ ФУНКЦИИ КЛАССАМ ПОСТА ##");
             Console.WriteLine("P.S. Программа поддерживает до 10 переменных");
             while (true)
@@ -31,8 +33,64 @@ namespace Diskretka
                 if (h == "1") continue;
                 else Environment.Exit(0);
             }
-            }
+        }
+        public static bool[] returnClassesOfPost(string str)
+        {
+            bool[] result = new bool[5];
+            (string s, int a) = ReadFunc(str);
+            string[] s1 = GenOfAllComb(a);
+            result[0]= ClassP0(s);
+            result[1] = ClassP1(s);
+            result[2] = ClassS(s);
+            result[3] = ClassM(s1, s);
+            result[4] = ClassL(s1, s, a);
+            for (int i = 0; i < 5; i++)
+                Console.Write($"|  {result[i]} ");
+            return result;
+        }
 
+        public static bool AreEqualArayBool(bool[] a, bool[] b)
+        {
+            bool result = true;
+            for (int i = 0; i < a.Length; i++ )
+            {
+                if (a[i] != b[i])
+                {
+                    result = false;
+                    break;
+                }
+            }
+            return result;
+        }
+
+        static (string s, int a) ReadFunc(string str)
+        {
+            var result = (s: "", a: 0);
+            string fString = str;
+            int l = fString.Length;
+            double d = l;
+            int d1 = l;
+            while (d > 1) d = d / 2;
+            int f = 0;
+            for (int i = 0; i < l; i++)
+            {
+                if (fString[i] == ('1')) f++;
+                else if (fString[i] == ('0')) f++;
+            }
+            if (d == 1 & f == l)
+            {
+                int n = 0;
+                while (d1 != 1)
+                {
+                    d1 = d1 / 2;
+                    n++;
+                }
+                result.s = fString;
+                result.a = n;
+
+            }
+            return result;
+        }
         //Функция, считывающая eval(f)
         static (string s, int a) ReadFunc()
         {
@@ -69,8 +127,8 @@ namespace Diskretka
         }
         static char PrintPlus(bool a)
         {
-         if (a == true) return '+';
-          else if (a == false) return '-';
+            if (a == true) return '+';
+            else if (a == false) return '-';
             return '!';
         }
 
