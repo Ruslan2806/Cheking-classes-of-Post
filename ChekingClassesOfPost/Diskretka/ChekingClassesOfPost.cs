@@ -14,7 +14,6 @@ namespace Diskretka
     {
         static void Main(string[] args)
         {
-            bool[] input = ChekingClassesOfPost.returnClassesOfPost("10101011");
             Console.WriteLine("## ПРОВЕРКА ПРИНАДЛЕЖНОСТИ ФУНКЦИИ КЛАССАМ ПОСТА ##");
             Console.WriteLine("P.S. Программа поддерживает до 10 переменных");
             while (true)
